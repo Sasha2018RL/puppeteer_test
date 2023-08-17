@@ -2,7 +2,8 @@
 
 1. You need Google account without two-factor authentication
 2. Clone repo and run `npm install` to install dependencies
-3. Run `npm start` to start the script
+3. In file `gmail_unread_count.js` replace `YOUR EMAIL HERE` to your gmail address and `YOUR PASSWORD HERE` to gmail password
+4. Run `npm start` to start the script
 
 
 ## Video with example how it works
